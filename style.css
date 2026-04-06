@@ -11,6 +11,9 @@
       color: inherit;
       cursor: pointer;
     }
+    ul{
+      padding-left: 0!important;
+    }
     .container {
       width: 85%;
       margin: auto;
