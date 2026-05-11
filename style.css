@@ -29,6 +29,11 @@
     overflow:hidden;
 }
 
+.hero-content{
+    position:relative;
+    z-index:2;
+}
+
 .hero-section h1{
     font-size:5rem;
     font-weight:700;
